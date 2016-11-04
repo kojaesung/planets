@@ -1,3 +1,6 @@
 this is my git
 
 I understand!!
+
+This is a lind added by a member
+
