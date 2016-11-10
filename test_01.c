@@ -2,7 +2,7 @@
 
 int main(void) {
 
-printf("Hi Man22");
+printf("I am s senior student");
 
 
 return 0;
